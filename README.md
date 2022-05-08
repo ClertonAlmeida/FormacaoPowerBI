@@ -6,6 +6,7 @@ Seguindo os seguintes passos: aplicar técnicas de ETL para tratar os dados obti
 
 Projetos realizados durante Formação em Power BI da Alura e outros cursos:
 
+* [Relatório do RH ](https://app.powerbi.com/view?r=eyJrIjoiOTgwN2RlMjAtMmY4MC00MjVlLTgzY2MtMzNjNTVmNDczNjM1IiwidCI6IjkxZDJkNjM0LTNjZDctNGY3Mi04ZWZkLTljZWEyN2EzNmRhYSJ9)
 * [E-Commerce Brasil ](https://app.powerbi.com/view?r=eyJrIjoiOTEzMDRlYzQtYWQwOS00NTU4LThmZWQtOGVkMTJlNTlhNDdlIiwidCI6IjkxZDJkNjM0LTNjZDctNGY3Mi04ZWZkLTljZWEyN2EzNmRhYSJ9&pageName=ReportSection)
 * [Relatório de Vendas](https://app.powerbi.com/view?r=eyJrIjoiMWRmZTcyMjYtMDU3OS00NDdmLTgyOTEtNDg4YzA2ZWM2MzkyIiwidCI6IjkxZDJkNjM0LTNjZDctNGY3Mi04ZWZkLTljZWEyN2EzNmRhYSJ9)
 * [Clube do Livro](https://app.powerbi.com/view?r=eyJrIjoiZDllODRiOWUtZWM0NC00MTYxLWIwMTctMTllZjFjMGIzYWQ4IiwidCI6IjkxZDJkNjM0LTNjZDctNGY3Mi04ZWZkLTljZWEyN2EzNmRhYSJ9&pageName=ReportSection15a698a56bd96d289c7d)
